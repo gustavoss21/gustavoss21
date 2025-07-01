@@ -1,8 +1,8 @@
 ### Olá eu sou Gustavo Souza ✌️
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gustavo-s-souza-a392351b1)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](linkedin.com/in/gustavo-s-souza-a392351b1)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](linkedin.com/in/gustavo-s-souza-a392351b1)
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gustavo-s-souza-techflow)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](youtube.com/@TechFlowSouza)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/techflowsouza?igsh=dTYwcGlvZXczYnjq)
 <br><br>
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoss21&show_icons=true&theme=radical)
 <br><br>
